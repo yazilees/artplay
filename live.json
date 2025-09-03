@@ -741,9 +741,6 @@ const ConfiguracionCanales = {
             { k1: "XXX", k2: "XXX" }
         ],
         title: "XXXX"
-    }
+    },
     
-    
-    
-
 };

@@ -742,7 +742,17 @@ const ConfiguracionCanales = {
         ],
         title: ""
     },
-    
+     "court1": {
+        "url": "https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629344116061_AiHD.m3u8?txSecret=53c596cb6d394372284591ec48ee1251&txTime=68C202F0",
+        "type": "m3u8",
+        title: "Live"
+    },
+     "court2": {
+        "url": "https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/4000629344116061_AiHD.m3u8?txSecret=53c596cb6d394372284591ec48ee1251&txTime=68C202F0",
+        "type": "m3u8",
+        title: "Live"
+    },
+   
     
     
 
